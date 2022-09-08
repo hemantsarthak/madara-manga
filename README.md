@@ -4,8 +4,10 @@ Test of sorts active link: [http://mantracodetest.surge.sh/](http://mantracodete
 A basic manga api image fetching based task in vue with forward, backward, looping functionality etc.
 
 This is what the site looks like in case the api goes down:
+
 ![Output](https://i.imgur.com/S9nnLLh.png)
-![Output Vid](https://i.imgur.com/8QnZ4DG.mp4)
+
+Output Video Imgur Link:(https://i.imgur.com/8QnZ4DG.mp4)
 
 ## Recommended IDE Setup
 
