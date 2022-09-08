@@ -7,7 +7,7 @@ This is what the site looks like in case the api goes down:
 
 ![Output](https://i.imgur.com/S9nnLLh.png)
 
-Output Video Imgur Link:(https://i.imgur.com/8QnZ4DG.mp4)
+Output Video Imgur Link: https://i.imgur.com/8QnZ4DG.mp4
 
 ## Recommended IDE Setup
 
