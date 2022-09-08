@@ -1,6 +1,11 @@
 # Mantra
+Test of sorts active link: [http://mantracodetest.surge.sh/](http://mantracodetest.surge.sh/)  
 
-This template should help get you started developing with Vue 3 in Vite.
+A basic manga api image fetching based task in vue with forward, backward, looping functionality etc.
+
+This is what the site looks like in case the api goes down:
+![Output](https://i.imgur.com/S9nnLLh.png)
+![Output Vid](https://i.imgur.com/8QnZ4DG.mp4)
 
 ## Recommended IDE Setup
 
